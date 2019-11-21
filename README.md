@@ -1,5 +1,5 @@
 # Movie recommendation
-This is a sample Movie recommendationproject.
+This is a sample Movie recommendation project.
 
 ## How to get started?
 
