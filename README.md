@@ -5,5 +5,5 @@ This is a sample Movie recommendation project.
 
 * Download the project
 * Run `npm install`
-* Run `npm start`
+* Run `npm run test`
 * Run `node index.js --genre="Animation" --time="12:00"`
